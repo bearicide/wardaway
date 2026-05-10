@@ -1,0 +1,14 @@
+{
+  "name": "WardaWay Security Tactical & Professional Solutions",
+  "short_name": "WardaWay",
+  "description": "Single-page tactical and professional solutions command site prototype.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#06182d",
+  "background_color": "#020812",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

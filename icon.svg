@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#020812"/>
+  <rect x="36" y="36" width="440" height="440" fill="#06182d" stroke="#e2f4ff" stroke-width="18"/>
+  <path d="M96 154h320v56H96zM128 240h256v42H128zM160 314h192v42H160z" fill="#2fb9ff"/>
+  <text x="256" y="438" text-anchor="middle" font-family="Arial, sans-serif" font-size="54" font-weight="900" fill="#ffffff">WW</text>
+</svg>
